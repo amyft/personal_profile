@@ -95,8 +95,6 @@ const CONFIG = {
     'Docker',
     'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
